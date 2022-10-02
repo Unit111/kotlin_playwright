@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.function.Executable
 
 
-class SteamTest: BaseTest() {
+class Steam2Test: BaseTest() {
 
     @Test
     @DisplayName("Searching for a title")
